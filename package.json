@@ -1,0 +1,13 @@
+{
+  "name": "KLAMERDEV-AUTOBUMP",
+  "version": "6.9",
+  "main": "index.js",
+  "typed": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "2.9.13",
+    "dotenv": "^10.0.0"
+  }
+}
